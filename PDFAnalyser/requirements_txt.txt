@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+pdfplumber
+PyPDF2
+pytesseract
+Pillow
+pandas
