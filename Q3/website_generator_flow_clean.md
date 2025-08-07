@@ -9,7 +9,7 @@ You need to build a flow where a user gives a one-line business idea and the sys
 ## Thought Process
 
 If someone gives me a one-liner like:  
-> “I want to create a platform for renting camping gear”  
+ “I want to create a platform for renting camping gear”  
 
 ...how do I turn that into a usable website scaffold, automatically?
 
@@ -22,7 +22,7 @@ I started thinking of this as a mix between creativity (handled well by AI) and 
 ### 1. User Input
 
 The user enters a one-liner business idea into a web form or command-line prompt. Something short and vague like:
-> “An app for freelance designers to get short-term gigs.”
+ “An app for freelance designers to get short-term gigs.”
 
 The system needs to understand and expand that vague idea.
 
